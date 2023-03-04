@@ -6,7 +6,7 @@ Adding the functionality for website users to create and publish articles, as we
 comment on these articles.
 
 User Stories:<br>
-[User Story 1 - Develop Web UI for Creating and Publishing Articles.](userstories/userstory1_createarticles.md)
+[User Story 1 - Develop Web UI for Creating and Publishing Articles.](userstories/userstory1_createarticles.md)<br>
 [User Story 2 - Develop Web UI for Adding Comments to the Articles.](userstories/userstory2_addcomments.md)
 
 Business value:<br>

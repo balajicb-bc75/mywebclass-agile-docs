@@ -9,11 +9,13 @@ Acceptance Criteria:
 * User should be able to add comments for the article
 * User should be able to upload images or other media to the article
 * User should be able to preview and edit the comments before publishing
+* Comments added for the articles should be successfully persisted in the database
 
 
 Tasks:<br>
 [Task 1 - Develop Web UI and Implement Functionality for Adding Comments.](tasks/us2_task1.md)<br>
-[Task 2 - Conduct testing of the website for Adding Comments.](tasks/us2_task2.md)
+[Task 2 - Conduct testing of the website for Adding Comments.](tasks/us2_task2.md)<br>
+[Task 3 - Develop backend to persist the comments entered for the articles.](tasks/us2_task3.md)<br>
 
 Test Plan:
 
