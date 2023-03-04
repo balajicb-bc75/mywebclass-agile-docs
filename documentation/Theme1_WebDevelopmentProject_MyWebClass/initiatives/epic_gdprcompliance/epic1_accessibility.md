@@ -7,8 +7,9 @@ complies with the General Data Protection Regulation (GDPR) requirements. Access
 essential for providing a positive user experience and protecting user privacy.
 
 User Stories:<br>
-[User Story 1 - Website is accessible and passes w3c validation.](userstories/userstory1_w3cvalidation.md)
-[User Story 2 - Compliance with GDPR Requirements.](userstories/userstory2_gdprcompliance.md)
+[User Story 1 - Website is accessible and passes w3c validation.](userstories/userstory1_w3cvalidation.md)<br>
+[User Story 2 - Compliance with GDPR Requirements.](userstories/userstory2_gdprcompliance.md)<br>
+[User Story 3 - Google Analytics.](userstories/userstory3_googleanalytics.md)<br>
 
 Business value:<br>
 * Increased customer satisfaction: By ensuring that the website is accessible to all users and protecting their privacy,
