@@ -6,6 +6,8 @@ compliance and security and using data to measure user behavior, setting us up f
 ## Initiative(s)
 
 * [Foster a culture of continuous improvement.](initiatives/initiative_continuousimprovement.md)
+* [Incorporate accessibility and GDPR Compliance into development.](initiatives/initiative_gdprcompliance.md)
+* [Develop a WebPage to add articles and provide comments for articles](initiatives/initiative_addarticles.md)
 
 ## Test plan
 Combination of Manual and Automated Testing (details to be included in the User Stories)
