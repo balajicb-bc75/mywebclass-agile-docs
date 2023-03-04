@@ -9,4 +9,4 @@ to comment on the articles
 
 
 EPICS:<br>
-[Epic 1 - Add / Publish Articles.](epic_gdprcompliance/epic1_addarticles.md)
+[Epic 1 - Add / Publish Articles.](epic_addarticles/epic1_addarticles.md)
